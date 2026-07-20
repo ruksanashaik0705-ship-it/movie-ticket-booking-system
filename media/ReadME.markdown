@@ -102,4 +102,3 @@ record of booked seats .
 
 4. After completing the booking process close all the windows and run `adminside.py`.
 
-
